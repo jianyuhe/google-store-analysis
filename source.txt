@@ -1,0 +1,10 @@
+https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore_user_reviews.csv
+
+https://www.kaggle.com/nathanlauga/nba-games#ranking.csv
+
+https://www.kaggle.com/leomauro/smmnet#course-meta.csv
+
+https://www.kaggle.com/yifanxie/telstra-competition-dataset#event_type.csv
+
+https://www.kaggle.com/freshrenzo/lahmanbaseballdatabase#AwardsSharePlayers.csv
+
